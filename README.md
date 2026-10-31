@@ -3,6 +3,13 @@
 POTA（Parks on the Air）のスポット情報を、Chrome の右側のサイドパネルに表示する拡張機能です。
 ほかのページを見ながら、POTA のスポットを確認できます。
 
+## ダウンロード
+**[最新版のダウンロードページはこちら](https://github.com/nqf18003/pota-spot-panel-release/releases/latest)** を開き、
+「Assets」の中の **`pota-spot-panel-x.y.z.zip`**（x.y.z は版の番号）を押してダウンロードしてください。
+
+> ページ上部の緑色の「Code」ボタンや、「Source code」の zip には拡張機能の本体は入っていません。
+> 必ず `pota-spot-panel-` で始まる zip をダウンロードしてください。
+
 ## できること
 - 1 分ごとに自動で更新（「今すぐ更新」ですぐに取り直せます）
 - 「日本の局だけ表示」（初期設定はオン）
@@ -14,7 +21,7 @@ POTA（Parks on the Air）のスポット情報を、Chrome の右側のサイ�
 - 設定は次回も残ります
 
 ## 入れ方
-1. このページの右側の **Releases** から、最新の `pota-spot-panel-x.y.z.zip` をダウンロードします。
+1. 上の「ダウンロード」の手順で、最新の `pota-spot-panel-x.y.z.zip` をダウンロードします。
 2. zip を右クリック →「すべて展開」で展開します。展開したフォルダは、消さずに置いておいてください。
 3. Chrome のアドレス欄に `chrome://extensions` と入力して開きます。
 4. 右上の **「デベロッパー モード」** をオンにします。
