@@ -1,5 +1,7 @@
 # POTA スポットパネル
 
+### [⬇ ダウンロード（最新版）](https://github.com/nqf18003/pota-spot-panel-release/releases/latest)
+
 POTA（Parks on the Air）のスポット情報を、Chrome の右側のサイドパネルに表示する拡張機能です。
 ほかのページを見ながら、POTA のスポットを確認できます。
 
